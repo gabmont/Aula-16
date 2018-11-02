@@ -1,1 +1,2 @@
-# Aula-16
+# aula-16
+Dynamic Trading Rights 
